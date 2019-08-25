@@ -1,0 +1,6 @@
+
+.navbar { background: none; position: fixed !important; width:100%; float:left; padding:20px 0 !important; z-index: 999;}
+.navbar .navbar-nav { float:right;}
+.navbar-brand { padding-top:0 !important;}
+.navbar-nav > li > a { color: #6a6d76 !important; font: 600 13px 'Montserrat', sans-serif; padding:0 !important; margin:15px !important; text-transform: uppercase; transition:all ease 0.5s}
+.navbar-nav > li > a:hover { background: none !important; color:#fff !important}

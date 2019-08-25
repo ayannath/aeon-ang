@@ -1,0 +1,10 @@
+.banner { float:left; width: 100%; background: #0f1219; position: relative;}
+.banner .img-hldr { float:right; width:55%; text-align: right; margin-top:85px;} 
+.banner .img-hldr img { max-width: 100%;}
+.banner .banner-txt { float: left; width:45%; padding-left:17%; padding-top: 180px;}
+.banner .banner-txt h1 { float:  left; width:100%; color: #caced8; font: 600 16px 'Montserrat', sans-serif; margin:0 0 15px;}
+.banner .banner-txt h2 { color: #656b79; color: #656b79; font: 600 15px 'Montserrat', sans-serif; /*background:url(../assets/images/line.jpg) no-repeat center right;*/ float: left; padding-right: 170px; margin:0 0 25px;}
+.banner .banner-txt h3 { float:left; width:100%; color:#f6f6f6; font: 500 54px/60px 'Montserrat', sans-serif;}
+.banner .banner-txt a { float: left; color:#c7ccd8; font:600 13px/50px 'Montserrat', sans-serif; /*background:url(../images/btn-bg.png) no-repeat center right;*/ padding-right:60px; margin-top:30px; transition:all ease 0.5s;}
+.banner .banner-txt a:hover { color:#fff; text-decoration: none;}
+
